@@ -1,6 +1,6 @@
 <div align='center'> <h1> Hi, I'm Conrado!</h1></div>
 
-#### I learned with [Trybe!](https://www.betrybe.com/) 👩🏽‍💻
+#### I learned with the [Trybe!](https://www.betrybe.com/) 👩🏽‍💻
  
  
 Give me a problem that I will give you a solution 
@@ -22,7 +22,7 @@ Using technology and innovation as the path of change
 
 
 
-## 📖 Pretendo aprender em breve:
+## 📖 I intend to learn soon:
 <img src="https://img.shields.io/badge/Pandas-282C34?logo=Pandas&logoColor=white" alt="Pandas logo" title="Pandas" height="25" />  <img src="https://img.shields.io/badge/R-282C34?logo=R&logoColor=white" alt="R logo" title="R" height="25" />
 
 
@@ -35,6 +35,6 @@ Using technology and innovation as the path of change
 </a>
 <br />
 
-## Me encontre:
+## Talk me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conrado-medeiros/)](https://www.linkedin.com/in/conrado-medeiros/)

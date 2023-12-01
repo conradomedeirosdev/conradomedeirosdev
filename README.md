@@ -43,8 +43,5 @@ Using technology and innovation as the path of change
 <br />
 <br />
 <br />
-<center>
 
 [![forthebadge](https://ForTheBadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-</center>

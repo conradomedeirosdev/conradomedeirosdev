@@ -40,6 +40,9 @@ Using technology and innovation as the path of change
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/conrado-medeiros/)](https://www.linkedin.com/in/conrado-medeiros/)
 
+[![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:conradodemedeiros@gmail.com)](mailto:conradodemedeiros@gmail.com)
+
+
 <br />
 <br />
 <br />

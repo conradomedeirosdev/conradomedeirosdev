@@ -7,22 +7,16 @@ Give me a problem that I will give you a solution
 
 
 Using technology and innovation as the path of change 
-
-
+<br />
+<br />
+<img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="240" height="200">
  ## 📚 Technologies:
 
-<img src="https://img.shields.io/badge/kotlin-282C34.svg?logo=kotlin&logoColor=white" alt="Kotlin logo" title="Kotlin" height="25" />
-<img src="https://img.shields.io/badge/java-282C34.svg?logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />
-<img src="https://img.shields.io/badge/spring-282C34.svg?logo=spring&logoColor=white" alt="Spring logo" title="Spring" height="25" />
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=007ACC" alt="Typescript logo" title="Typescript" height="25" /><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" /><img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=cc0000" alt="Jest logo" title="Jest" height="25" /><img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="MySQL logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=589636" alt="MongoDB logo" title="MongoDB" height="25" /> <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node logo" title="Node" height="25" /> <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=#339933" alt="Express logo" title="Express" height="25" /> <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=ffdd54" alt="Python logo" title="Python" height="25" /> <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" /> <img src="https://img.shields.io/badge/Cypress-282C34?logo=cypress&logoColor=white" alt="Cypress logo" title="Cypress" height="25" /> <img src="https://img.shields.io/badge/docker-282C34.svg?logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />
+<img src="https://img.shields.io/badge/kotlin-282C34.svg?logo=kotlin&logoColor=white" alt="Kotlin logo" title="Kotlin" height="25" /><img src="https://img.shields.io/badge/java-282C34.svg?logo=java&logoColor=white" alt="Java logo" title="Java" height="25" /><img src="https://img.shields.io/badge/spring-282C34.svg?logo=spring&logoColor=white" alt="Spring logo" title="Spring" height="25" /><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=007ACC" alt="Typescript logo" title="Typescript" height="25" /><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" /><img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=cc0000" alt="Jest logo" title="Jest" height="25" /><img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="MySQL logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=589636" alt="MongoDB logo" title="MongoDB" height="25" /> <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node logo" title="Node" height="25" /> <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=#339933" alt="Express logo" title="Express" height="25" /> <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=ffdd54" alt="Python logo" title="Python" height="25" /> <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" /> <img src="https://img.shields.io/badge/Cypress-282C34?logo=cypress&logoColor=white" alt="Cypress logo" title="Cypress" height="25" /> <img src="https://img.shields.io/badge/docker-282C34.svg?logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />
 
   
 ## 🛠️ usually use:
 <img src="https://img.shields.io/badge/Linux-282C34?logo=Linux&logoColor=FFFFFF" alt="Linux logo" title="Linux" height="25" /> <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /> <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />  <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=191970" alt191970="ESLint logo" title="ESLint" height="25" /> <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=836FFF" alt="Bootstrap logo" title="ESLint" height="25" /> <img src="https://img.shields.io/badge/Notion-282C34?logo=notion&logoColor=FFFFF" alt="Notion logo" title="Notion" height="25" /> <img src="https://img.shields.io/badge/Slack-282C34?logo=Slack&logoColor=2EB67D" alt="Slack logo" title="Slack" height="25" />
-
-
-
-
 
 
 ## 📖 I intend to learn soon:
@@ -37,7 +31,11 @@ Using technology and innovation as the path of change
   <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradomedeirosdev&layout=compact&theme=dracula" alt="conradomedeirosdev" />
 </a>
 <br />
-
-## Talk me:
-
+## Call me for a coffee:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conrado-medeiros/)](https://www.linkedin.com/in/conrado-medeiros/)
+
+<br />
+<br />
+<br />
+
+[![forthebadge](https://ForTheBadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)

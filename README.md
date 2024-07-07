@@ -1,9 +1,6 @@
 <div align='center'> <h1> Hi, I'm Conrado!</h1></div>
 
 #### I learned with the [Trybe!](https://www.betrybe.com/) 👩🏽‍💻
- 
- 
-Give me a problem that I will give you a solution 
 
 
 Using technology and innovation as the path of change 
